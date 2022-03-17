@@ -1,0 +1,33 @@
+.hf {
+    text-align: center;              
+    font-size: x-large;
+    color: beige;
+    
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    border-radius: 25px;              
+}
+  div#sticky{
+    position: sticky;
+    bottom: 0px;
+    background-color: black;
+  }         
+.cc {
+    color: azure;
+    border-color: black;
+    border-style: dotted;
+    border-color: black; 
+       
+}
+div{
+    color: azure;
+}
+div#form101 *, div#form101{            
+    background-image: linear-gradient(to right, black, red);
+    color: aliceblue;
+}
+
